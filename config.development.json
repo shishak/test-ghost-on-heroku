@@ -1,5 +1,5 @@
 {
-  "url": "",
+  "url": "https://papir.herokuapp.com/",
   "server": {
     "port": 2368,
     "host": ""
